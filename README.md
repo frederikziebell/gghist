@@ -3,10 +3,10 @@
 
 # gghist: Quickly draw a histogram using ggplot2
 
-[![](https://www.r-pkg.org/badges/version/badger?color=green)](https://cran.r-project.org/package=badger)
-[![](http://cranlogs.r-pkg.org/badges/grand-total/badger?color=green)](https://cran.r-project.org/package=badger)
-[![](http://cranlogs.r-pkg.org/badges/last-month/badger?color=green)](https://cran.r-project.org/package=badger)
-[![](http://cranlogs.r-pkg.org/badges/last-week/badger?color=green)](https://cran.r-project.org/package=badger)
+[![](https://www.r-pkg.org/badges/version/gghist?color=green)](https://cran.r-project.org/package=gghist)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/gghist?color=green)](https://cran.r-project.org/package=gghist)
+[![](http://cranlogs.r-pkg.org/badges/last-month/gghist?color=green)](https://cran.r-project.org/package=gghist)
+[![](http://cranlogs.r-pkg.org/badges/last-week/gghist?color=green)](https://cran.r-project.org/package=gghist)
 [![R build
 status](https://github.com/frederikziebell/gghist/workflows/R-CMD-check/badge.svg)](https://github.com/frederikziebell/gghist/actions)
 

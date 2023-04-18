@@ -19,10 +19,10 @@ library("badger")
 
 ```{r, echo = FALSE, results='asis'}
 cat(
-	badge_cran_release("badger", "green"),
-	badge_cran_download("badger", "grand-total", "green"),
-	badge_cran_download("badger", "last-month", "green"),
-	badge_cran_download("badger", "last-week", "green"),
+	badge_cran_release("gghist", "green"),
+	badge_cran_download("gghist", "grand-total", "green"),
+	badge_cran_download("gghist", "last-month", "green"),
+	badge_cran_download("gghist", "last-week", "green"),
 	badge_github_actions()
 )
 ```
