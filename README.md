@@ -3,6 +3,13 @@
 
 # gghist: Quickly draw a histogram using ggplot2
 
+[![](https://www.r-pkg.org/badges/version/badger?color=green)](https://cran.r-project.org/package=badger)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/badger?color=green)](https://cran.r-project.org/package=badger)
+[![](http://cranlogs.r-pkg.org/badges/last-month/badger?color=green)](https://cran.r-project.org/package=badger)
+[![](http://cranlogs.r-pkg.org/badges/last-week/badger?color=green)](https://cran.r-project.org/package=badger)
+[![R build
+status](https://github.com/frederikziebell/gghist/workflows/R-CMD-check/badge.svg)](https://github.com/frederikziebell/gghist/actions)
+
 gghist is a wrapper around ggplot2’s `geom_histogram()` to easily plot a
 histogram of a numeric vector. This is especially useful, since
 `qplot()` was deprecated in ggplot2 3.4.0.
