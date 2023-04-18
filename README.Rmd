@@ -12,9 +12,20 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 library("ggplot2")
+library("badger")
 ```
 
 # gghist: Quickly draw a histogram using ggplot2
+
+```{r, echo = FALSE, results='asis'}
+cat(
+	badge_cran_release("badger", "green"),
+	badge_cran_download("badger", "grand-total", "green"),
+	badge_cran_download("badger", "last-month", "green"),
+	badge_cran_download("badger", "last-week", "green"),
+	badge_github_actions()
+)
+```
 
 gghist is a wrapper around ggplot2's `geom_histogram()` to easily plot a histogram of a numeric vector. This is especially useful, since `qplot()` was deprecated in ggplot2 3.4.0.
 
